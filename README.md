@@ -30,7 +30,7 @@
 
 - :man_technologist: Создаю ETL-процессы с помощью Airflow, DBT.
 
-- :man_technologist: Понимаю матстат: a/b тестирование, дисперсионный анализ, bootstrap. Умею работать с Tableau.
+- :man_technologist: Понимаю матстат: a/b тестирование, дисперсионный анализ, bootstrap. Умею работать с Tableau, Power BI.
 
   ---
 
