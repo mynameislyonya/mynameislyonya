@@ -26,9 +26,11 @@
 
 - :man_technologist: Знаю python, умею обрабатывать и анализировать данные с помощью pandas, а визуализировать - seaborn.
 
-- :man_technologist: Владею синтаксисом PostgreSQL на уровне оконных функций.
+- :man_technologist: Владею синтаксисом PostgreSQL, SQL Server на уровне оконных функций.
 
-- :man_technologist: Понимаю матстат: a/b тестирование, дисперсионный анализ, bootstrap. Умею работать с Tableau..
+- :man_technologist: Создаю ETL-процессы с помощью Airflow, DBT.
+
+- :man_technologist: Понимаю матстат: a/b тестирование, дисперсионный анализ, bootstrap. Умею работать с Tableau.
 
   ---
 
